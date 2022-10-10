@@ -2,6 +2,12 @@
 
 This project was bootstrapped with Create [React App.](https://github.com/facebook/create-react-app)
 
+## Website
+https://kew-collabw.netlify.app/#
+
+## Video
+http://sc.com.ly/show/6455392c-569a-4d42-80c2-13474b5b9f0e
+
 ## Available Scripts
 In the project directory, you can run:
 
