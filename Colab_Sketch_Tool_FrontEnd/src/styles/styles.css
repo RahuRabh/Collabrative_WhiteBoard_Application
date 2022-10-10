@@ -1,0 +1,202 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body{
+    background-size: 300% 300%;
+  background-image: linear-gradient(
+        -45deg, 
+        #2980B9 0%, 
+        #6DD5FA 25%, 
+        #c3e0eb 25% 51%, 
+        #FFFFFF 100%
+  );  
+  animation: AnimateBG 20s ease infinite;
+  }
+
+  @keyframes AnimateBG { 
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+  }
+
+  
+  .whiteboard {
+    height: 100%;
+    width: 100%;
+    border-radius: 16px;
+    cursor: url("../assets/cursor.png"), auto;
+    background-color: #ffffffaa;
+    box-shadow: 2px 2px 16px #ffffffcb;
+
+  }
+  
+  .colors {
+    /* position: fixed; */
+    /* top: 20%;
+    right: 20%; */
+    text-align: left;
+  }
+  
+  .color {
+    height: 36px;
+    width: 36px;
+    border-radius: 100%;
+    margin: 4px;
+  }
+  
+  .color.black { background-color: #28321D; }
+  .color.red { background-color: #D9281E; }
+  .color.green { background-color: #5DBB63; }
+  .color.blue { background-color: #1520A6; }
+  .color.yellow { background-color: #EFCC00; }
+
+
+  .column {
+    text-align: center;
+    float: left;
+    padding: 10px;
+  }
+  
+  .left {
+    width: 75%;
+    padding: 24px;
+  }
+  
+  .right {
+    width: 25%;
+    padding: 24px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    text-align: center;
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  td {
+    /* border: 1px solid #000; */
+}
+
+tr td:last-child {
+    width: 1%;
+    white-space: nowrap;
+}
+
+
+button {
+  margin-left: 2em;
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 24px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+}
+
+button:hover {
+  background-color: #2980B9;
+  box-shadow: 0px 15px 20px #297fb995;
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+button:active {
+  transform: translateY(-1px);
+}
+
+
+.button_Logout {
+  margin-top: 0.5em;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  float: right;
+}
+
+.button_Logout:hover {
+  background-color: #c82f2f;
+  box-shadow: 0px 15px 20px #c82f2fc8;
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+.button_Logout:active {
+  transform: translateY(-1px);
+}
+
+.button_Login {
+  margin-top: 2em;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  padding: 1.3em 3em;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  float: center;
+  width: 90%;
+}
+
+.button_Login:hover {
+  background-color: #307ddb;
+  box-shadow: 0px 15px 20px #307ddba0;
+  color: #fff;
+  transform: translateY(-7px);
+}
+
+.button_Login:active {
+  transform: translateY(-1px);
+}
+
+.centeredLoginForm {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #ffffffb9;
+  padding: 2em;
+  padding-bottom: 3em;
+  border-radius: 12px;
+}
+
+
+input[type=email], select {
+  margin: 1em;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
