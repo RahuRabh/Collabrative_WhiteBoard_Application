@@ -19,19 +19,13 @@ http://sc.com.ly/show/6455392c-569a-4d42-80c2-13474b5b9f0e
 ## Additional Screenshots:
 <img width="1406" alt="Screenshot 2022-10-11 at 15 55 23" src="https://user-images.githubusercontent.com/63224718/195032239-3374cb87-9fdf-4a8d-9020-e3342fd56474.png">
 
-<img width="1435" alt="Screenshot 2022-10-11 at 16 00 12" src="https://user-images.githubusercontent.com/63224718/195032670-ad56c5e7-556b-4241-bd04-e98842635fed.png">
-
+<img width="943" alt="1" src="https://user-images.githubusercontent.com/63224718/195083350-282992fc-60d8-4769-8828-fb2971697bb2.png">
 
 <img width="941" alt="Screenshot 2022-10-11 at 15 56 29" src="https://user-images.githubusercontent.com/63224718/195032278-05d502c2-c548-489f-af29-d3517f5034c8.png">
 
 <img width="857" alt="Screenshot 2022-10-11 at 15 56 18" src="https://user-images.githubusercontent.com/63224718/195032294-4c52e4ce-c4dc-4815-8c52-e8be912b7ec0.png">
 
 <img width="940" alt="Screenshot 2022-10-11 at 15 55 28" src="https://user-images.githubusercontent.com/63224718/195032316-776cf70e-518f-4b5a-9d1f-4c1114d32054.png">
-
-<img width="1422" alt="Screenshot 2022-10-11 at 15 56 08" src="https://user-images.githubusercontent.com/63224718/195032261-db87838a-ab9e-4d82-8a1f-72a6fa62680d.png">
-
-
-
 
 ## Available Scripts
 In the project directory, you can run:
