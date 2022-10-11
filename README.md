@@ -8,6 +8,12 @@ https://kew-collabw.netlify.app/#
 ## Video
 http://sc.com.ly/show/6455392c-569a-4d42-80c2-13474b5b9f0e
 
+## SignUp/SignIn page
+A new user has to enter their email id for signup and a link will be sent to their email which can be used to verify and sigin. Whereas an existing user has to enter their email id and a sigin link will be sent to their email.
+ 
+![This is the User Interface for the Signup/Signin page.](../https://github.com/RahuRabh/Collabrative_WhiteBoard_Application/blob/master/SignUp-SignIn.png)
+
+
 ## Available Scripts
 In the project directory, you can run:
 
