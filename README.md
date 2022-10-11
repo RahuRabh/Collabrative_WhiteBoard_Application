@@ -5,13 +5,14 @@ This is a full-stack SPA React Application with Web Socket connections to allow 
 front URL: https://rahul-collabwb.netlify.app/   |   
 backEnd API: https://collabrativewhiteboarding.onrender.com
 
+## Website
+https://rahul-collabwb.netlify.app/
+
 ### Node.JS | ReactJS | SPA | Web Socket | Socket.IO | supabase | Collabrative Sessions | Low-Latency Duplex Connection
 
 NOTE: GIF compression may result in blurring, fragmentation and unwanted elements in the image(s).
 
 ![CollabWB](https://user-images.githubusercontent.com/63224718/195036322-5e6e200d-5968-4385-8a51-3e3393343a6a.gif)
-## Website
-https://kew-collabw.netlify.app/#
 
 ## Video
 http://sc.com.ly/show/6455392c-569a-4d42-80c2-13474b5b9f0e
