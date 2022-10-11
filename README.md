@@ -12,7 +12,7 @@ https://rahul-collabwb.netlify.app/
 
 NOTE: GIF compression may result in blurring, fragmentation and unwanted elements in the image(s).
 
-![CollabWB](https://user-images.githubusercontent.com/63224718/195036322-5e6e200d-5968-4385-8a51-3e3393343a6a.gif)
+![gif](https://user-images.githubusercontent.com/63224718/195089893-d92394c4-261b-4124-84bb-82044f1cf231.gif)
 
 ## Video
 http://sc.com.ly/show/6455392c-569a-4d42-80c2-13474b5b9f0e
