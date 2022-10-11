@@ -1,17 +1,36 @@
 # Collabrative_WhiteBoard_Application 
 
-This project was bootstrapped with Create [React App.](https://github.com/facebook/create-react-app)
+This is a full-stack SPA React Application with Web Socket connections to allow collaborative whiteboarding, saving and restoring data.
 
+front URL: https://rahul-collabwb.netlify.app/   |   
+backEnd API: https://collabrativewhiteboarding.onrender.com
+
+### Node.JS | ReactJS | SPA | Web Socket | Socket.IO | supabase | Collabrative Sessions | Low-Latency Duplex Connection
+
+NOTE: GIF compression may result in blurring, fragmentation and unwanted elements in the image(s).
+
+![CollabWB](https://user-images.githubusercontent.com/63224718/195036322-5e6e200d-5968-4385-8a51-3e3393343a6a.gif)
 ## Website
 https://kew-collabw.netlify.app/#
 
 ## Video
 http://sc.com.ly/show/6455392c-569a-4d42-80c2-13474b5b9f0e
 
-## SignUp/SignIn page
-A new user has to enter their email id for signup and a link will be sent to their email which can be used to verify and sigin. Whereas an existing user has to enter their email id and a sigin link will be sent to their email.
- 
-![This is the User Interface for the Signup/Signin page.](../https://github.com/RahuRabh/Collabrative_WhiteBoard_Application/blob/master/SignUp-SignIn.png)
+## Additional Screenshots:
+<img width="1406" alt="Screenshot 2022-10-11 at 15 55 23" src="https://user-images.githubusercontent.com/63224718/195032239-3374cb87-9fdf-4a8d-9020-e3342fd56474.png">
+
+<img width="1435" alt="Screenshot 2022-10-11 at 16 00 12" src="https://user-images.githubusercontent.com/63224718/195032670-ad56c5e7-556b-4241-bd04-e98842635fed.png">
+
+
+<img width="941" alt="Screenshot 2022-10-11 at 15 56 29" src="https://user-images.githubusercontent.com/63224718/195032278-05d502c2-c548-489f-af29-d3517f5034c8.png">
+
+<img width="857" alt="Screenshot 2022-10-11 at 15 56 18" src="https://user-images.githubusercontent.com/63224718/195032294-4c52e4ce-c4dc-4815-8c52-e8be912b7ec0.png">
+
+<img width="940" alt="Screenshot 2022-10-11 at 15 55 28" src="https://user-images.githubusercontent.com/63224718/195032316-776cf70e-518f-4b5a-9d1f-4c1114d32054.png">
+
+<img width="1422" alt="Screenshot 2022-10-11 at 15 56 08" src="https://user-images.githubusercontent.com/63224718/195032261-db87838a-ab9e-4d82-8a1f-72a6fa62680d.png">
+
+
 
 
 ## Available Scripts
@@ -55,3 +74,5 @@ You don't have to ever use ``eject.`` The curated feature set is suitable for sm
 You can learn more in the Create React [App documentation.](https://create-react-app.dev/docs/getting-started/)
 
 To learn React, check out the [React documentation.](https://reactjs.org/)
+
+Designed and Developed - Rahul Kumar. 
