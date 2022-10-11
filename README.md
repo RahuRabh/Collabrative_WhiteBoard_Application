@@ -2,11 +2,8 @@
 
 This is a full-stack SPA React Application with Web Socket connections to allow collaborative whiteboarding, saving and restoring data.
 
-front URL: https://rahul-collabwb.netlify.app/   |   
-backEnd API: https://collabrativewhiteboarding.onrender.com
-
-## Website
-https://rahul-collabwb.netlify.app/
+FrontEnd URL: https://rahul-collabwb.netlify.app/   |   
+BackEnd API: https://collabrativewhiteboarding.onrender.com
 
 ### Node.JS | ReactJS | SPA | Web Socket | Socket.IO | supabase | Collabrative Sessions | Low-Latency Duplex Connection
 
