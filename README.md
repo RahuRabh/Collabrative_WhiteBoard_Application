@@ -11,9 +11,6 @@ NOTE: GIF compression may result in blurring, fragmentation and unwanted element
 
 ![gif](https://user-images.githubusercontent.com/63224718/195089893-d92394c4-261b-4124-84bb-82044f1cf231.gif)
 
-## Video
-http://sc.com.ly/show/6455392c-569a-4d42-80c2-13474b5b9f0e
-
 ## Additional Screenshots:
 <img width="1406" alt="Screenshot 2022-10-11 at 15 55 23" src="https://user-images.githubusercontent.com/63224718/195032239-3374cb87-9fdf-4a8d-9020-e3342fd56474.png">
 
